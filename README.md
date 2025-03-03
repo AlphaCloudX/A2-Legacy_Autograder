@@ -18,6 +18,25 @@ Once the Python file is in the correct location, run the following command in th
 ```bash
 python3 runCal.py
 ```
+If python3 doesn't work, try python but you must have python version 3 installed.
+
+```bash
+python runCal.py
+```
+
+or
+
+```bash
+py runCal.py
+```
+
+or
+
+```bash
+py -3 runCal.py
+```
+
+
 ## How to Use the Program
 
 When you run the program which then runs your program, it doesn't automatically know what questions it will ask, what kind of answers it expects, or in what order.
