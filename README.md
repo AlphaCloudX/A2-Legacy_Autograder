@@ -8,6 +8,7 @@ This project is an auto-grader tool that helps evaluate certain outputs based on
 First, you need to clone the repository to your local machine. Open your terminal and run the following command:
 ```bash
 git clone https://github.com/AlphaCloudX/A2-Legacy_Autograder.git
+```
 
 ### 2. Place the Python file in the executable folder
 Copy the Python file into the same directory where your executable is located.
